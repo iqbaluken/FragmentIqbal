@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment Apps Iqbal</string>
+    <string name="action_setting">Setting</string>
+
+
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="pencet_tombol">Tekan Tombolnya!</string>
+    <string name="tampil_tombol">Tampilkan Details</string>
+    <string name="disini_tampil">Disini kami memiliki detailnya!</string>
+</resources>
