@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Fragment Apps Iqbal</string>
-    <string name="action_setting">Setting</string>
+    <string name="action_settings">Setting</string>
 
 
     <string name="hello_blank_fragment">Hello Blank Fragment</string>
